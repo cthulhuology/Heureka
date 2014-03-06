@@ -1,0 +1,21 @@
+{
+	"author": "David Goehrig",
+	"name": "heureka",
+	"license" : "MIT",
+	"description": "DNS Service Discovery Tools",
+	"version": "0.0.1",
+	"repository": {
+		"url": "http://github.com/cthulhuology/Heureka"
+	},
+	"main": "./lib/Heureka.js",
+	"bin": { "heureka": "./bin/heureka" },
+	"dependencies": { 
+		"request": ">=2.34.0"
+	},
+	"devDependencies": {},
+	"optionalDependencies": {},
+	"engines": {
+		"node": ">=0.10"
+	}
+}
+
