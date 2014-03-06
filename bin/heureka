@@ -1,0 +1,4 @@
+#!/usr/bin/env node
+
+Heureka = require('heureka')
+Heureka.apply(Heureka, process.argv.slice(2))
