@@ -3,7 +3,7 @@
 	"name": "heureka",
 	"license" : "MIT",
 	"description": "DNS Service Discovery Tools",
-	"version": "0.0.2",
+	"version": "0.0.3",
 	"repository": {
 		"url": "http://github.com/cthulhuology/Heureka"
 	},
